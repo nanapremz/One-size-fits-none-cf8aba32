@@ -8,6 +8,10 @@ li a {
 	font-size: 1.8em;
 }
 
+ul {
+	color: red;
+}
+
 ol li {
 	color: red;
 	font-size: 1.8em;
@@ -22,3 +26,6 @@ body {
 	background-color: lightblue;
 }
 
+img {
+	width: 300px;
+}
